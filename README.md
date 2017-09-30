@@ -22,7 +22,9 @@ source venv/bin/activate
 
 #### Screenshots of Alert:
 
+https://github.com/maxmohash/stockprice-sms-alert/blob/master/IMG-8388.PNG
 
+https://github.com/maxmohash/stockprice-sms-alert/blob/master/IMG-8387.PNG
 
 ##### Read https://www.twilio.com/docs/quickstart/python/sms/sending-via-rest#send-sms-via-library to know about Twilio API
 
