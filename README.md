@@ -12,7 +12,7 @@ virtualenv venv
 source venv/bin/activate
 ```
 
-#### Now to get the Stock Alert via SMS just type in virtualenv or in terminal directly:
+#### Now to get the Stock Alert via SMS just type in terminal:
 
 `python stocksmsalert.py`
 
