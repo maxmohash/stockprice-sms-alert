@@ -13,7 +13,7 @@ source venv/bin/activate
 ```
 #### Enter the details required in the lines of code starting from below to make this functional for your personal use:
 
-`https://github.com/maxmohash/stockprice-sms-alert/blob/master/stocksmsalert.py#L13`
+`https://github.com/maxmohash/stockprice-sms-alert/blob/master/stocksmsalert.py#L6`
 
 #### Now to get the Stock Alert via SMS just type in terminal:
 

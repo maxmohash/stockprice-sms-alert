@@ -5,7 +5,8 @@ from twilio.rest import Client
 
 # Make sure the stock symbol entered is correct below
 your_stock_symbol = "isrg"
-google_finance_request_url = "https://www.google.com/finance?q=NASDAQ%3A{}".format(your_stock_symbol)
+your_stock_market = "NASDAQ"
+google_finance_request_url = "https://www.google.com/finance?q={}%3A{}".format(your_stock_market, your_stock_symbol)
 # Enter the price hike (i.e. in USD) you expect and wish to be notified
 # if the actual stock price equals or rises above it
 expected_hike = 8
