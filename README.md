@@ -11,7 +11,7 @@ pip install -Ur requirements.txt
 virtualenv venv
 source venv/bin/activate
 ```
-#### Enter the details required in the lines of code starting from below to make this functional to your personal use:
+#### Enter the details required in the lines of code starting from below to make this functional for your personal use:
 
 `https://github.com/maxmohash/stockprice-sms-alert/blob/master/stocksmsalert.py#L13`
 
